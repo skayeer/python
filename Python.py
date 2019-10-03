@@ -1,2 +1,2 @@
 print("Hello world");
-print("create new vetky" 
+print("create new vetky"); 
